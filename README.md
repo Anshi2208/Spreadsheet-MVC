@@ -35,3 +35,12 @@ To interact with the spreadsheet, follow these steps:
 - **Dynamic Cell Management** 🔲: The application keeps track of the current value and formula of each cell, updating them when necessary.
 - **Formula Calculations** 🧮: Formulas can be entered in cells, which will automatically recalculate when dependent cells are modified.
 - **Dependency Graph** 🌐: The app efficiently manages the relationships between cells, ensuring that recalculations occur in the correct order when data changes.
+
+### Screenshots
+
+Home Page
+<img width="1920" height="1008" alt="Screenshot 2025-12-17 114136" src="https://github.com/user-attachments/assets/416ed057-ec2e-4f4c-8b46-e44d345bc7fb" />
+
+Spreadsheet Playground
+<img width="1920" height="1008" alt="Screenshot 2025-12-17 114221" src="https://github.com/user-attachments/assets/a452632a-c8b1-4048-9f63-7d557ed3ee6b" />
+
